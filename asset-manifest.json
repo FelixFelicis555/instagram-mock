@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/instagram-mock/static/css/main.4152c3d3.css",
+    "main.js": "/instagram-mock/static/js/main.af604e9d.js",
+    "index.html": "/instagram-mock/index.html",
+    "main.4152c3d3.css.map": "/instagram-mock/static/css/main.4152c3d3.css.map",
+    "main.af604e9d.js.map": "/instagram-mock/static/js/main.af604e9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.af604e9d.js"
+  ]
+}
